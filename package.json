@@ -1,0 +1,14 @@
+{
+  "name": "item_track",
+  "description": "Keep track of your groceries",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
